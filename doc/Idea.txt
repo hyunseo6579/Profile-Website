@@ -1,0 +1,4 @@
+3 main pages:
+	1. Home - animated appearance of my name and my projects; make a vertical timeline is descending time order
+	2. About Me - markdown editable 1 page about myself; animated images; more focus on aesthetics
+	3. Blog - also markdown; paginated; can choose to view all or category of blog posts; can include react animated graphs; videos and images
